@@ -3,19 +3,21 @@ fudao2017
 
 
 
-47.97.215.122(����)
+服务器地址，数据库地址:47.97.215.122(公网)
+
+SSH登陆
 root
 Fudao9915
 
 
 
 
-MYSQL
+MYSQL登陆
 root
 Fudao2017
 
 
 
-FTP
+FTP登陆(暂不用)
 www
 ptf321
