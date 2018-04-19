@@ -1,4 +1,4 @@
-guangxifudao2017
+﻿guangxifudao2017
 fudao2017
 
 
@@ -21,3 +21,7 @@ Fudao2017
 FTP登陆(暂不用)
 www
 ptf321
+
+
+
+http://localhost/api/fdmanage/common/login?loginStr=MDAwMDE4Mzc2MDkyMjAxMDAwMA==&password=MDAwMDU4NDYwNTk4MDAwMA==&ip=12
